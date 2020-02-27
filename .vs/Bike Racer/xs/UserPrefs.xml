@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5DD0B908-F19B-2EDF-7D57-E8B70EA31E23}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VehicleSpawn.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AIWaypointNetwork.cs" Line="7" Column="62" />
+      <File FileName="Assets/Scripts/NavAgent.cs" Line="10" Column="47" />
+      <File FileName="Assets/Scripts/VehicleSpawn.cs" Line="28" Column="46" />
+      <File FileName="Assets/Scripts/BikeController.cs" Line="11" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bike Racer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aaa634fe-b571-48b9-8e28-425b2138c312" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
